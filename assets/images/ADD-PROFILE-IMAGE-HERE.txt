@@ -1,0 +1,14 @@
+﻿ADD SAYONITA'S PHOTO HERE
+
+Filename:
+
+profile.webp
+
+Final location:
+
+assets/images/profile.webp
+
+Recommended:
+700 x 800 px
+WebP
+under approximately 200 KB

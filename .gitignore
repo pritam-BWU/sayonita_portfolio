@@ -1,0 +1,14 @@
+﻿.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local development / backup files
+backup-*/
+*-before-redesign-*
+*-before-ui-patch-*
+Sayonita-Redesign-Blue-White.ps1
+Sayonita-Hero-Navbar-Journey-Patch.ps1
+.vscode/
+Thumbs.db
+.DS_Store
